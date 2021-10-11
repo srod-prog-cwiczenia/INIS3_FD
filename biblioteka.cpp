@@ -2,4 +2,5 @@
 
 
 int pusta() {
+  cout << "Jestem metodą z modułu biblioteka";
 }
